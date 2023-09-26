@@ -5,6 +5,7 @@
     <img src="https://pbs.twimg.com/profile_images/756314612899811328/5aGy-wrn_400x400.jpg">
     <h1>Gretchen Whitney High School Boys Golf Team </h1>
     <h6> Cerritos, California </h6>
+    <img src="">
     <h2> Roster </h2>
     <ul>
       <li> <a href="https://docs.google.com/presentation/d/1nR0EUdxxAnwbCYLt0x5c7wJKC9qSVS2fHSw8lPUqnvE/edit?usp=sharing"> Kendrick Tan (Captain) 
@@ -18,7 +19,11 @@
       <li> Krish Grover </li>
       <li> Kavi Nak </li>
     </ul>
-    <h2> Team Schedule </h2>
+    <h2> Coaches </h2>
+      <li> Mi</li>
+    <h2> Schedule </h2>
+    <h4> <b> <a href="https://cifss.org/schedules-and-scores/?_sports=boys-golf"> Whitney Team Schedule </a> </b> </h4>
+      <h6> <p> Enter "Whitney" in "School" and Press "Search"</p> </h6>
     <h2> Results </h2>
     <h4> Historical Records & Achievements </h4>
     <ul>
