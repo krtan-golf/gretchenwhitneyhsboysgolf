@@ -20,7 +20,10 @@
       <li> Kavi Nak </li>
     </ul>
     <h2> Coaches </h2>
-      <li> Mi</li>
+      <ul> 
+      <li> Michael Hamada </li>
+      <li> Glen Hamakawa </li> 
+      </ul>
     <h2> Schedule </h2>
     <h4> <b> <a href="https://cifss.org/schedules-and-scores/?_sports=boys-golf"> Whitney Team Schedule </a> </b> </h4>
       <h6> <p> Enter "Whitney" in "School" and Press "Search"</p> </h6>
