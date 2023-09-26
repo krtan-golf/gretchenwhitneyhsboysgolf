@@ -7,7 +7,8 @@
     <h6> Cerritos, California </h6>
     <h2> Roster </h2>
     <ul>
-      <li> Kendrick Tan (Captain) </li>
+      <li> <a href="https://docs.google.com/presentation/d/1nR0EUdxxAnwbCYLt0x5c7wJKC9qSVS2fHSw8lPUqnvE/edit?usp=sharing"> Kendrick Tan (Captain) 
+          </a> </li>
       <li> Jason Lai (Captain) </li>
       <li> Ryan Kim </li>
       <li> Jonathan Lee </li>
