@@ -1,4 +1,6 @@
 # gretchenwhitneyhsboysgolf
+<!DOCTYPE html>
+
 <html>
   <head>
   <body>
@@ -11,16 +13,16 @@
     <img src="Boys golf.JPEG">
     <h2> Roster </h2>
     <ul>
-      <li> <a href="https://docs.google.com/presentation/d/1nR0EUdxxAnwbCYLt0x5c7wJKC9qSVS2fHSw8lPUqnvE/edit?usp=sharing"> Kendrick Tan (Captain)  </a> 
+      <li> <a href="https://docs.google.com/presentation/d/1nR0EUdxxAnwbCYLt0x5c7wJKC9qSVS2fHSw8lPUqnvE/edit?usp=sharing"> Kendrick Tan (Captain)  </a>, Junior
       </li>
-      <li> Jason Lai (Captain) </li>
-      <li> Ryan Kim </li>
-      <li> Jonathan Lee </li>
-      <li> Vedansh Sinha </li>
-      <li> Samanyu Suryavanshi </li>
-      <li> Mihir Patel </li>
-      <li> Krish Grover </li>
-      <li> Kavi Nak </li>
+      <li> Jason Lai (Captain), Junior </li>
+      <li> Ryan Kim, Junior</li>
+      <li> Jonathan Lee, Sophomore </li>
+      <li> Vedansh Sinha, Junior </li>
+      <li> Samanyu Suryavanshi, Sophomore </li>
+      <li> Krish Grover, Junior </li>
+      <li> Mihir Patel, Sophomore </li>
+      <li> Kavi Nak, Junior </li>
     </ul>
     <h2> Coaches </h2>
       <ul> 
@@ -28,8 +30,8 @@
       <li> Glen Hamakawa </li> 
       </ul>
     <h2> Schedule </h2>
-    <h4> <b> <a href="https://cifss.org/schedules-and-scores/?_sports=boys-golf"> Whitney Team Schedule </a> </b> </h4>
-      <p> <small> Enter "Whitney" in "School" and Press "Search" </small> </p>
+    <a href="https://cifss.org/schedules-and-scores/?_sports=boys-golf"> Whitney Team Schedule </a> </font>
+      <p> Enter "Whitney" in "School" and Press "Search" </p>
     <h2> Results </h2>
     <h4> Historical Records & Achievements </h4>
     <ul>
@@ -41,6 +43,13 @@
           <li> Ryan Kim - 605 League Finals 4th Place </li>
         </ul>
       </li>
+      <li> '21-22 </li>
+        <ul>
+          <li> 605 League Runner-Up (Team)</li>
+          <li> Jason Lai - 605 League Finals Runner-Up </li>
+          <li> Kendrick Tan - 605 League Finals 3rd Place </li>
+          <li> Lorenzo Rodriguez - 605 League Finals 4th Place </li>
+        </ul>
     </ul>
   </body>
   </head>
