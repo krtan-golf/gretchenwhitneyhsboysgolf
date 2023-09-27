@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="https://pbs.twimg.com/profile_images/756314612899811328/5aGy-wrn_400x400.jpg">
+    <img src="whitney logo.png">
     <h1>Gretchen Whitney High School Boys' Golf Team </h1>
     <h3> Home of the Wildcats </h3>
     <h5> Cerritos, California </h5>
