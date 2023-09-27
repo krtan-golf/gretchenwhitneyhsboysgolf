@@ -54,6 +54,9 @@
           <li> Kendrick Tan - 605 League Finals 3rd Place </li>
           <li> Lorenzo Rodriguez - 605 League Finals 4th Place </li>
         </ul>
+      <li> '96-97 </li>
+        <ul>
+          <li> David Oh - CIF SoCal Champion </li>
     </ul>
   </body>
   </head>
