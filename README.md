@@ -57,7 +57,9 @@
       <li> '96-97 </li>
         <ul>
           <li> David Oh - CIF SoCal Champion </li>
+        </ul>
     </ul>
   </body>
   </head>
 </html>
+    </body>
