@@ -1,5 +1,4 @@
 <html>
-  <head> <title> Gretchen Whitney HS Boys' Golf </title> </head>
   <body>
     <img src="https://pbs.twimg.com/profile_images/756314612899811328/5aGy-wrn_400x400.jpg">
     <h1>Gretchen Whitney High School Boys Golf Team </h1>
@@ -7,7 +6,7 @@
     <h5> Cerritos, California </h5>
       <p> Gretchen Whitney High School is an academic-focused school that strives to prepare students to attned their best-fitting university, shown by its consistent ranking of top 2 in California. Gretchen Whitney High School serves students in grades 7-12 and encourages students to participate in extracirricular activities to become socially developed and well-rounded citizens outside of the school environment. (per <a href="https://www.whitneyhs.us/apps/pages/index.jsp?uREC_ID=1260147&type=d&pREC_ID=1433409"> Gretchen Whitney High School </a> and <a href="https://www.usnews.com/education/best-high-schools/california/districts/abc-unified-school-district/whitney-high-school-1709"> US News </a>) </p>
       <p> The Whitney Boys' Golf team has achieved many athletic accomplishments in recent history, which include becoming 605 Team League Champions ('23, first time in school's history), qualifying to the CIF Team Competitions ('22 and '23), and sending 3 players to the CIF Southern Section Invididual Regional Tournament ('22 and '23). </p>
-   <p> <a href="#roster"> Roster </a>     <a href="#coaches"> Coaches </a>     <a href="schedule"> Schedule </a>     <a href="results"> Results </a> </p>
+   <h3><a href="#roster"> Roster </a> _____ <a href="#coaches"> Coaches </a> _____ <a href="schedule"> Schedule </a> _____ <a href="results"> Results </a> </h3>
     <br> </br>
     <img src="Boys golf.JPEG">
     <div id="roster">
